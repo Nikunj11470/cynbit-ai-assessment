@@ -10,7 +10,7 @@ An ML layer for **Revio**, Cynbit's AI reputation-management product. It turns r
 4. **Crisis early-warning**: statistical spike detection plus a high-severity override (food safety, harassment, fraud, legal)
 5. **Brand-safe reply drafts**: grounded in outlet facts, checked by guardrails, routed to a human when risky
 
-> 🔗 **Live demo:** _add your Streamlit Cloud URL here_ · 🎥 **Video walkthrough:** _add link (optional)_
+> 🔗 **Live demo:** https://cynbit-revio-insight.streamlit.app/ (first load takes ~1–2 min while the pipeline runs)
 
 ## Deliverables
 
