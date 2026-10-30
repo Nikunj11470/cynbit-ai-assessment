@@ -1,0 +1,15 @@
+{
+  "brand_name": "Tadka Lane",
+  "note": "Fictional demo brand used to simulate a Revio multi-location client.",
+  "voice_guide": "Warm, genuine and concise. Use simple English. Thank the guest, mention the specific things they raised, never sound defensive or robotic. No emojis. Sign off as 'Team Tadka Lane'.",
+  "support_contact": "care@tadkalane.example",
+  "forbidden_commitments": ["refund", "compensation", "free meal", "we are liable", "our fault", "guarantee"],
+  "locations": {
+    "JPR-CSCHEME": {"hours": "11 am - 11 pm", "facts": ["Flagship outlet with live tandoor counter."]},
+    "JPR-MALVIYA": {"hours": "12 pm - 11 pm", "facts": ["Deep-cleaning schedule moved to twice a week from October."]},
+    "DEL-CP": {"hours": "11 am - 11:30 pm", "facts": ["Kitchen audited by an external food-safety agency every quarter."]},
+    "MUM-BANDRA": {"hours": "12 pm - 12 am", "facts": ["Table reservations available on the website.", "Two extra kitchen staff added on weekends."]},
+    "BLR-INDIRA": {"hours": "12 pm - 11 pm", "facts": ["Weekday lunch thali offer available."]},
+    "PUN-KP": {"hours": "11 am - 11 pm", "facts": ["Delivery is handled by third-party partners.", "Sealed, leak-proof delivery packaging is being rolled out."]}
+  }
+}

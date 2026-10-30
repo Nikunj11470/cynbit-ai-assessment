@@ -1,0 +1,16 @@
+{
+  "crisis": {
+    "location_id": "DEL-CP",
+    "start_day": 108,
+    "end_day": 117,
+    "type": "health_safety",
+    "start_date": "2026-10-18",
+    "end_date": "2026-10-27"
+  },
+  "drift": {
+    "location_id": "PUN-KP",
+    "start_day": 70,
+    "aspect": "delivery",
+    "start_date": "2026-09-10"
+  }
+}
